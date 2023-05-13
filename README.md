@@ -16,7 +16,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="left">
   <a href="https://www.python.org">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100" height="100">
   </a>
