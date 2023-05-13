@@ -1,7 +1,9 @@
 <h1>👋 Hi there!</h1>
 
-<h3> I'm a Python beginner and these projects are part of my learning journey.<h3>
- 
+		I'm a Python beginner and these projects are part of my learning journey.
+
+ <br>
+ <br>
  
 
 <h2>⚙️Tech Stack:<h2>
