@@ -1,3 +1,5 @@
+
+
 <h1>👋 Hi there!</h1>
 
 		I'm a Python beginner and these projects are part of my learning journey.
@@ -6,12 +8,13 @@
  <br>
  
 
-<h2>⚙️Tech Stack:<h2>
-<div align="left"
-  <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" width="100" height="100">
+<summary><h2 style="display: inline-block;">⚙️Tech Stack:</h2></summary>
 
-  <a href="https://www.sqlite.org">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" width="100" height="100">
+</a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
+</a> 
+
+ <a href="https://www.sqlite.org" target="_blank" rel="noreferrer">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite" width="65" height="50">
   </a>
-</div
