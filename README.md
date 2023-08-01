@@ -18,3 +18,7 @@
  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer">
    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" alt="SQLite" width="65" height="50">
   </a>
+
+<a href="https://www.djangoproject.com" target="_blank" rel="noreferrer">
+ <img src="https://www.svgrepo.com/show/353657/django-icon.svg" alt="django" width="50" height="50"/>
+</a> 
